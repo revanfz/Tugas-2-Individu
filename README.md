@@ -1,6 +1,7 @@
 # Tugas 2 Individu - Pemrograman Aplikasi Mobile
 
 Konsep lanjutan Javascript mengenai:
+
 1.Closure
 
 2.Immediately Invoked Function Expression
