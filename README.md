@@ -1,4 +1,4 @@
-# Tugas 2 Individu - Pemrograman Aplikasi Mobile
+# Tugas 2 Individu - Pengembangan Aplikasi Mobile
 
 Konsep lanjutan Javascript mengenai:
 
